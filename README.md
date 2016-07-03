@@ -15,3 +15,6 @@
 
 **** July 3rd 2016 ****
 + Finished bubble sort
++ Finished selection sort ( *Unexplained why my first commit go wrong!
+                            *If the loop for(j ; j<=i ; j++) don't have j<=i, it commits the same mistake as my first try)
+
