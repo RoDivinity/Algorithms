@@ -13,4 +13,5 @@
       => Implementation of Huffman Table (create binary tree based on letter frequency)
       => Encode, decode String according to Huffman Table
 
-**** July 1st 2016 ****
+**** July 3rd 2016 ****
++ Finished bubble sort
