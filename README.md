@@ -18,3 +18,6 @@
 + Finished selection sort ( *Unexplained why my first commit go wrong!
                             *If the loop for(j ; j<=i ; j++) don't have j<=i, it commits the same mistake as my first try)
 
+**** July 4th 2016 ****
++ Finished insertion sort
++ Finished shell sort
