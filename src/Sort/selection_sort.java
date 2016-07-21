@@ -22,14 +22,14 @@ public class selection_sort {
      int i, j, first, temp;  
      for ( i = num.length - 1; i > 0; i -- )  
      {
-          first = 0;   //initialize to subscript of first element
-          for(j = 1; j <= i; j ++)   //locate smallest element between positions 1 and i.
+          first = 0;   //initialize to subscript of first element to implement a temporary max
+          for(j = 1; j <= i; j ++)   //locate the largest element between positions 1 and i.
           {
                if( num[ j ] > num[ first ] )         
                  first = j;
           }
-          temp = num[ first ];   //swap smallest found with element in position i.
-          num[ first ] = num[ i ];
+          temp = num[ first ];   //swap largest value found with element in position i. (1st round i = length - 1, last index)
+          num[ first ] = num[ i ];                                                    //(2nd round i = length - 2, 2nd last index)
           num[ i ] = temp; 
       }           
 }
