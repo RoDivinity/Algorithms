@@ -21,3 +21,15 @@
 **** July 4th 2016 ****
 + Finished insertion sort
 + Finished shell sort
+
+**** July 24th 2017 ****
+
++ Needed to finish:
+  * Practice for greedy algorithm, dynamic programming, backtracking and various other techniques
+  * Fully understand how to deal with range queries, data structure to handle range queries. 
+  * Understand bit manipulation, data compression
+  * Learn more graph's algorithm such as Djisktra's, BFS, DFS, etc... 
+
++ Finished graph representation
++ Finished depth first search in graph
+ 
